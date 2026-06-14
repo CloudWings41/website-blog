@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "41bd1be6614812f7",
+        "id": "4d40060c1fc06d97",
         "type": "tabs",
         "children": [
           {
-            "id": "6f59973de1895a89",
+            "id": "05e0a06e8c4b1fa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/content/posts/markdown-extended.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "markdown-extended"
-            }
-          },
-          {
-            "id": "79153f8409d5b997",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -127,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -170,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -208,19 +187,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1f1957edcead006",
+  "active": "05e0a06e8c4b1fa0",
   "lastOpenFiles": [
+    "src/content/posts/markdown-extended.md",
+    "CONTRIBUTING.md",
+    "未命名.base",
     "README_副本.md",
     "未命名.md",
-    "未命名.base",
-    "src/content/posts/markdown-extended.md",
     "src/content/posts/video.md",
     "src/content/posts/markdown.md",
     "src/content/posts/expressive-code.md",
     "src/content/posts/draft_副本.md",
     "src/content/posts/draft.md",
     "README.md",
-    "CONTRIBUTING.md",
     "local-doc.html.md",
     "vercel.json",
     "tsconfig.json",
