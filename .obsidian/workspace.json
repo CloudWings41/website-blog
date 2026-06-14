@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d40060c1fc06d97",
+        "id": "77d92dfbdd1b93c8",
         "type": "tabs",
         "children": [
           {
-            "id": "05e0a06e8c4b1fa0",
+            "id": "b87779fbbc2eff49",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "src/content/posts/test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/content/posts/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "test 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/content/posts/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "test 的出链列表"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "src/content/posts/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "test 的大纲"
             }
           },
           {
@@ -191,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef45f0f1dc4e405f",
+  "active": "b87779fbbc2eff49",
   "lastOpenFiles": [
+    "src/content/posts/test.md",
+    "src/content/posts/未命名.md",
     "dist/pagefind/pagefind-modular-ui.css",
     "dist/pagefind/pagefind-highlight.js",
     "dist/pagefind/wasm.unknown.pagefind",
@@ -203,7 +208,6 @@
     "dist/pagefind/pagefind-entry.json",
     "dist/pagefind/index/zh-cn_cd9cb94.pf_index",
     "dist/pagefind/fragment/zh-cn_fde7b6b.pf_fragment",
-    "dist/pagefind/fragment/zh-cn_d2b284d.pf_fragment",
     "dist/_astro/cover.CgGywNHJ_9MQNr.webp",
     "dist/_astro/demo-avatar.Dvr1CkX3_pjuCn.webp",
     "dist/_astro/demo-banner.WD4SMgz_.png",
@@ -219,7 +223,6 @@
     "src/content/posts/markdown-extended.md",
     "CONTRIBUTING.md",
     "README_副本.md",
-    "未命名.md",
     "src/content/posts/video.md",
     "src/content/posts/markdown.md",
     "src/content/posts/expressive-code.md",
