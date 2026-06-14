@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/test.md",
+                "file": "src/content/posts/draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "draft"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/posts/test.md",
+                "file": "src/content/posts/draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "test 的反向链接列表"
+              "title": "draft 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/posts/test.md",
+                "file": "src/content/posts/draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "test 的出链列表"
+              "title": "draft 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/posts/test.md",
+                "file": "src/content/posts/draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "draft 的大纲"
             }
           },
           {
@@ -196,18 +196,17 @@
   },
   "active": "b87779fbbc2eff49",
   "lastOpenFiles": [
-    "src/content/posts/test.md",
-    "src/content/posts/未命名.md",
-    "dist/pagefind/pagefind-modular-ui.css",
-    "dist/pagefind/pagefind-highlight.js",
-    "dist/pagefind/wasm.unknown.pagefind",
-    "dist/pagefind/pagefind-ui.css",
-    "dist/pagefind/pagefind-modular-ui.js",
-    "dist/pagefind/pagefind-ui.js",
-    "dist/pagefind/pagefind.js",
-    "dist/pagefind/pagefind-entry.json",
     "dist/pagefind/index/zh-cn_cd9cb94.pf_index",
     "dist/pagefind/fragment/zh-cn_fde7b6b.pf_fragment",
+    "dist/pagefind/fragment/zh-cn_d2b284d.pf_fragment",
+    "dist/pagefind/fragment/zh-cn_be2c794.pf_fragment",
+    "dist/pagefind/fragment/zh-cn_b0cfcf5.pf_fragment",
+    "dist/pagefind/fragment/zh-cn_7631823.pf_fragment",
+    "dist/pagefind/fragment/zh-cn_60e01e7.pf_fragment",
+    "dist/pagefind/fragment/zh-cn_3691894.pf_fragment",
+    "dist/pagefind/wasm.unknown.pagefind",
+    "dist/pagefind/pagefind.zh-cn_76a49aec3148c.pf_meta",
+    "dist/pagefind/pagefind.js",
     "dist/_astro/cover.CgGywNHJ_9MQNr.webp",
     "dist/_astro/demo-avatar.Dvr1CkX3_pjuCn.webp",
     "dist/_astro/demo-banner.WD4SMgz_.png",
@@ -218,6 +217,9 @@
     "dist/favicon/favicon-light-192.png",
     "dist/favicon/favicon-light-180.png",
     "dist/favicon/favicon-light-128.png",
+    "src/content/posts/test.md",
+    "src/content/posts/draft.md",
+    "src/content/posts/未命名.md",
     "local-doc.html.md",
     "README.md",
     "src/content/posts/markdown-extended.md",
@@ -227,7 +229,6 @@
     "src/content/posts/markdown.md",
     "src/content/posts/expressive-code.md",
     "src/content/posts/draft_副本.md",
-    "src/content/posts/draft.md",
     "src/content/posts/guide/index.md",
     "src/content/spec/about.md",
     "docs/README.vi.md",
