@@ -9,3 +9,9 @@ category: Examples
 draft: false
 ---
 依旧测试。
+
+:::note
+ads
+:::
+
+
