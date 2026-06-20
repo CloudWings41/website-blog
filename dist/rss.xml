@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CloudWings</title><description>个人博客</description><link>https://cloudwings41.github.io/</link><language>zh_CN</language><item><title>测试</title><link>https://cloudwings41.github.io/posts/test/</link><guid isPermaLink="true">https://cloudwings41.github.io/posts/test/</guid><pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;依旧测试。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CloudWings</title><description>个人博客</description><link>https://cloudwings41.github.io/</link><language>zh_CN</language><item><title>博客搭建日记</title><link>https://cloudwings41.github.io/posts/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E8%AE%B0/</link><guid isPermaLink="true">https://cloudwings41.github.io/posts/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E8%AE%B0/</guid><pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;2026.6.21&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;踩坑：
+绿联nas魔改的rsync，目标路径不用用 Volume1，只能直接是 docker&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item><item><title>测试</title><link>https://cloudwings41.github.io/posts/test/</link><guid isPermaLink="true">https://cloudwings41.github.io/posts/test/</guid><pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;依旧测试。&lt;/p&gt;
 &lt;p&gt;:::note
 ads
 :::&lt;/p&gt;
