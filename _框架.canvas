@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"bdd1bc347f96dace","type":"text","text":"CloudWings的小站\n","x":-460,"y":0,"width":250,"height":50},
+		{"id":"4e40e4e9e4f6e1aa","type":"text","text":"首页","x":-120,"y":-100,"width":250,"height":60},
+		{"id":"8a6077cd780ac714","type":"text","text":"博客","x":-120,"y":100,"width":250,"height":60},
+		{"id":"51794e4a89d583d3","type":"text","text":"问题汇总","x":240,"y":100,"width":250,"height":60},
+		{"id":"3fad5664647bbd64","type":"text","text":"每次更新进度","x":240,"y":240,"width":250,"height":60},
+		{"id":"ae61db0f1b3413f9","type":"text","text":"To do","x":240,"y":-35,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c0703785f510c6ef","fromNode":"bdd1bc347f96dace","fromSide":"right","toNode":"4e40e4e9e4f6e1aa","toSide":"left"},
+		{"id":"2122a49491aceaa3","fromNode":"bdd1bc347f96dace","fromSide":"right","toNode":"8a6077cd780ac714","toSide":"left"},
+		{"id":"1a6ad014621ed0d0","fromNode":"8a6077cd780ac714","fromSide":"right","toNode":"ae61db0f1b3413f9","toSide":"left"},
+		{"id":"099f040dfa011d74","fromNode":"8a6077cd780ac714","fromSide":"right","toNode":"51794e4a89d583d3","toSide":"left"},
+		{"id":"e6bb44be4cd6e031","fromNode":"8a6077cd780ac714","fromSide":"right","toNode":"3fad5664647bbd64","toSide":"left"}
+	]
+}
