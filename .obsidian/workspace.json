@@ -208,6 +208,8 @@
   },
   "active": "76b5f517498c462b",
   "lastOpenFiles": [
+    "src/content/posts/疑问.md",
+    "src/content/posts/To do list.md",
     "src/content/posts/新的文章.md",
     "dist/pagefind/index/zh-cn_4aa9245.pf_index",
     "dist/pagefind/fragment/zh-cn_bf6c379.pf_fragment",
@@ -229,8 +231,6 @@
     "dist/favicon/favicon-light-128.png",
     "dist/favicon/favicon-dark-32.png",
     "dist/favicon/favicon-dark-192.png",
-    "src/content/posts/To do list.md",
-    "src/content/posts/疑问.md",
     "src/content/posts/博客搭建日志.md",
     "src/content/spec/about.md",
     "未命名.md",
