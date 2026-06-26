@@ -206,8 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76b5f517498c462b",
+  "active": "a1f1957edcead006",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "src/content/posts/博客搭建日志.md",
     "dist/pagefind/index/zh-cn_54ac2e2.pf_index",
     "dist/pagefind/fragment/zh-cn_95e7844.pf_fragment",
     "dist/pagefind/fragment/zh-cn_51d3ddd.pf_fragment",
@@ -218,7 +220,6 @@
     "dist/pagefind/pagefind.js",
     "dist/pagefind/pagefind-ui.js",
     "dist/pagefind/pagefind-ui.css",
-    "dist/pagefind/pagefind-modular-ui.js",
     "dist/_astro/demo-avatar.Dvr1CkX3_pjuCn.webp",
     "dist/_astro/demo-banner.WD4SMgz_.png",
     "dist/_astro/demo-avatar.Dvr1CkX3.png",
@@ -230,7 +231,6 @@
     "dist/favicon/favicon-dark-32.png",
     "dist/favicon/favicon-dark-192.png",
     "src/content/posts/疑问.md",
-    "src/content/posts/博客搭建日志.md",
     "src/content/spec/about.md",
     "src/content/posts/To do list.md",
     "src/content/posts/新的文章.md",
