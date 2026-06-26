@@ -16,15 +16,27 @@
 &lt;h2&gt;杂项&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;[ ] 学习 RSS https://blog.yuer6327.top/posts/rss/&lt;/li&gt;
+&lt;li&gt;[ ] 写一个爬虫，把 cnblog 上的博客爬下来&lt;/li&gt;
 &lt;/ul&gt;
-</content:encoded></item><item><title>博客搭建日志</title><link>https://cloudwings41.github.io/posts/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</link><guid isPermaLink="true">https://cloudwings41.github.io/posts/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</guid><description>记录本博客的每次更新</description><pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;2026.6.21&lt;/h2&gt;
-&lt;p&gt;:::warning[踩坑]
-绿联 nas 魔改的 rsync，目标路径不用用 Volume1，只能用相对于 share 的相对路径。
-:::&lt;/p&gt;
-</content:encoded></item><item><title>疑问</title><link>https://cloudwings41.github.io/posts/%E7%96%91%E9%97%AE/</link><guid isPermaLink="true">https://cloudwings41.github.io/posts/%E7%96%91%E9%97%AE/</guid><description>目前所有的疑问</description><pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;网络&lt;/h2&gt;
+</content:encoded></item><item><title>疑问</title><link>https://cloudwings41.github.io/posts/%E7%96%91%E9%97%AE/</link><guid isPermaLink="true">https://cloudwings41.github.io/posts/%E7%96%91%E9%97%AE/</guid><description>目前所有的疑问</description><pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;NAS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] 绿联到底对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;网络&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;[ ] CDN 具体是什么
 &lt;a href=&quot;https://www.zhihu.com/question/25651207/answer/2033673458610123743&quot;&gt;https://www.zhihu.com/question/25651207/answer/2033673458610123743&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[ ] 静态网站和动态网站究竟有什么区别&lt;/li&gt;
 &lt;/ul&gt;
-</content:encoded></item><item><title>新的文章</title><link>https://cloudwings41.github.io/posts/%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0/</link><guid isPermaLink="true">https://cloudwings41.github.io/posts/%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0/</guid><pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;测试&lt;/p&gt;
+</content:encoded></item><item><title>博客搭建日志</title><link>https://cloudwings41.github.io/posts/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</link><guid isPermaLink="true">https://cloudwings41.github.io/posts/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</guid><description>记录本博客的每次更新</description><pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;https://docs.astro.build/zh-cn/tutorial/&lt;/p&gt;
+&lt;h2&gt;2026.6.21&lt;/h2&gt;
+&lt;p&gt;:::warning[踩坑]
+绿联 nas 魔改的 rsync，目标路径不用用 Volume1，只能用相对于 share 的相对路径。
+:::&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;2026.6.26&lt;/h2&gt;
+&lt;p&gt;今天看到 astro 推出了 &lt;a href=&quot;https://astro.build/blog/astro-7/&quot;&gt;7.0&lt;/a&gt;，啥也没管，顺手更新了。结果发现是巨大更新： astro 重写了整个框架……&lt;/p&gt;
+&lt;p&gt;更新后，整个项目就乱了，先去更新了依赖项和插件，然后重新按照新的框架改了一些设置，最后 &lt;code&gt;pnpm dev&lt;/code&gt; 是成功了，但是一个页面也打不开 😭&lt;/p&gt;
+&lt;p&gt;最后交给了 Copilot，一顿操作之后，确实能用了，但是还是有一些细节不对（文章字数不显示等）。最后还是回滚到 v5 了。&lt;/p&gt;
+&lt;p&gt;所以最后等价于今天什么都没干 😐&lt;/p&gt;
 </content:encoded></item></channel></rss>

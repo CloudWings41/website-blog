@@ -60,7 +60,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "CloudWings",
-	bio: "This is CloudWings' blog space",
+	bio: "Stay Hungry Stay Foolish",
 	links: [
 		// {
 		// 	name: "Twitter",
@@ -84,11 +84,11 @@ export const profileConfig: ProfileConfig = {
 				icon: 'fa6-brands:github',
 				url: 'https://github.com/CloudWings41',
 			},
-			// {
-			// 	name: 'QQ',
-			// 	icon: 'fa6-brands:qq',
-			// 	url: 'https://qm.qq.com/q/Uy9kmDXHYO',
-			// },
+			{
+				name: 'QQ',
+				icon: 'fa6-brands:qq',
+				url: 'https://qm.qq.com/q/x5bugHbHXO',
+			},
 			// {
 			// 	name: 'Email',
 			// 	icon: 'fa6-solid:envelope',
